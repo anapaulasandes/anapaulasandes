@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on the use of classification algorithms in an commercial EEG device called Brainwave Mobile 2, by Neurosky.
+
 <!--
 **anapaulasandes/anapaulasandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
